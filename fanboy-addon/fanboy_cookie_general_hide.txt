@@ -8842,7 +8842,6 @@
 ##.grdp-container
 ##.grdp-popup
 ##.great-eu-cookies
-##.grecaptcha-badge
 ##.group-header-placeholder-cookie
 ##.grp-header__cookiedisclaimer
 ##.gsCookieDisclaimer
